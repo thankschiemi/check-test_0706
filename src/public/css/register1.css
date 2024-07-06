@@ -1,0 +1,105 @@
+.header {
+    background: white;
+}
+
+.header__inner {
+    border: 1px solid #E0DFDE;
+    padding: 30px 0;
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+
+}
+
+.header__logo {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: #8B7969;
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.inika-bold {
+    font-family: "Inika", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.login-form__content {
+    background: white;
+}
+
+.login-form__heading {
+    border: 1px solid white;
+    width: 300px;
+    margin: 0px auto;
+    font-size: 25px;
+    color: #8B7969;
+    text-align: center;
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.inika-bold {
+    font-family: "Inika", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.form {
+    border: 1px solid white;
+    width: 972px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.form__group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+
+}
+
+.form__group-title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #8B7969;
+    font-family: "Inika", serif;
+    font-weight: 400;
+}
+
+.form__input--text input,
+.form__input--textarea textarea {
+    padding: 5px;
+    width: 250px;
+    border: 1px solid #F4F4F4;
+    border-radius: 3px;
+}
+
+.form__button {
+    margin-top: 30px;
+}
+
+.form__button-submit {
+    padding: 10px;
+    width: 250px;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #82756A;
+    color: #fff;
+    cursor: pointer;
+
+}
+
+.form__input--text input {
+    height: 40px;
+}
+
+.form__input--textarea textarea {
+    height: 50px;
+}

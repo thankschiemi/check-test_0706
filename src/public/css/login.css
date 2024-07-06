@@ -1,0 +1,90 @@
+.header {
+    background: white;
+}
+
+.header__inner {
+    border: 1px solid #E0DFDE;
+    padding: 30px 0;
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+
+}
+
+.header__logo {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: #8B7969;
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.inika-bold {
+    font-family: "Inika", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.login-form__content {
+    background: white;
+}
+
+.login-form__heading {
+    border: 1px solid white;
+    width: 300px;
+    margin: 0px auto;
+    font-size: 25px;
+    color: #8B7969;
+    text-align: center;
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.inika-bold {
+    font-family: "Inika", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.form {
+    border: 1px solid rgb(192, 22, 22);
+    width: 972px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.form__group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+
+}
+
+.form__label--item {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #8B7969;
+    font-family: "Inika", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.form__button {
+    margin-top: 30px;
+}
+
+.form__button-submit {
+    padding: 10px;
+    width: 250px;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #82756A;
+    color: #fff;
+    cursor: pointer;
+
+}
